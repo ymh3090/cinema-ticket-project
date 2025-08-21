@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace cinema_ticket_project
 {
-    internal class program1
+    internal class Movie
     {
+       
+        public int i=64564546;
+
     }
 }
